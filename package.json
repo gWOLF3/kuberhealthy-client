@@ -1,0 +1,14 @@
+{
+  "name": "kuberhealthy",
+  "version": "0.0.12",
+  "description": "javascript implementation of kuberhealthy Go client",
+  "main": "kh-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
