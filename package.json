@@ -1,6 +1,6 @@
 {
   "name": "kuberhealthy",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "javascript implementation of kuberhealthy Go client",
   "main": "kh-client.js",
   "scripts": {
