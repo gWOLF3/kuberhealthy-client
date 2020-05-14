@@ -21,6 +21,8 @@ kh.ReportSuccess()
 
 ```
 
+> _NOTE: KH_REPORTING_URL must be set in your env. This is usually done automatically if running as 'khcheck' on kubernetes._ 
+
 #### example: 
 ```javascript
 const report = async () => {
