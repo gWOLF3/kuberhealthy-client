@@ -1,4 +1,5 @@
-## kuberhealthy-client 🩺
+## kuberhealthy-client 🩺 
+[![npm version](https://badge.fury.io/js/kuberhealthy.svg)](https://badge.fury.io/js/kuberhealthy)
 
 a simple, asynchronous javascript client for [kuberhealthy](https://github.com/Comcast/kuberhealthy) synthetic checks. 
 
