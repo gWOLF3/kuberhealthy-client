@@ -1,6 +1,6 @@
 {
   "name": "kuberhealthy",
-  "version": "0.0.13",
+  "version": "0.0.15",
   "description": "javascript implementation of kuberhealthy Go client",
   "main": "kh-client.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
